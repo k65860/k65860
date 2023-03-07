@@ -3,8 +3,6 @@
 <!--
 **k65860/k65860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-api/pin?username=anuraghazra&repo=github-readme-stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -17,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k65860)](https://github.com/k65860/github-readme-stats)
