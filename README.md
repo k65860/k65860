@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k65860&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k65860&?hide=jupyternotebook)](https://github.com/k65860/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k65860&?hide=Jupyter Notebook)](https://github.com/k65860/github-readme-stats)
