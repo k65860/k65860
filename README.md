@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k65860)](https://github.com/k65860/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k65860&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k65860&show_icons=true&theme=radical)
