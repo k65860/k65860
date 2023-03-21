@@ -17,9 +17,3 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k65860&theme=tokyonight)](https://github.com/k65860/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=k65860&hide=JupyterNotebook&layout=compact&theme=tokyonight)](https://github.com/k65860/github-readme-stats)
-
-| Plugin | README |
-| ------ | ------ |
-| Velog | https://velog.io/@k65860 |
-| GitHub | https://github.com/k65860 |
-
