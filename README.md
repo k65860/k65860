@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" ulr="https://velog.io/@k65860">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k65860&theme=tokyonight)](https://github.com/k65860/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=k65860&hide=JupyterNotebook&layout=compact&theme=tokyonight)](https://github.com/k65860/github-readme-stats)
