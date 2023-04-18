@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 ## 🐧 Introduce
 - 2021~ 삼육대학교 인공지능융합학부 & 2023~ 컴퓨터공학과 복수전공
 - 2021~2023.02 삼육대학교 멋쟁이사자처럼 회원 및 운영진
+
+## 🛠 Project
 - 2021, 2022 SYU SW 경진대회 참가
 - 2021 SYU 동아리연합회 X 멋쟁이사자처럼 동아리 소개 페이지 제작 프로젝트
 - 2022.08.19 멋쟁이사자처럼 연합 해커톤 참가
 
-## 📚 STACKS
+## 📚 Stack
 
 <div align=center>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -38,7 +40,7 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-## Stats
+## 📈 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k65860&theme=tokyonight)](https://github.com/k65860/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=k65860&hide=JupyterNotebook&layout=compact&theme=tokyonight)](https://github.com/k65860/github-readme-stats)
