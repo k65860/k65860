@@ -31,7 +31,7 @@
 ## 💻 Commit...
 <div align="center">
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k65860&exclude_repo=k65860.github.io&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k65860&exclude_repo=k65860.github.io&layout=compact&theme=tokyonight" width="30%" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=k65860&theme=tokyonight&show_icons=true" width="40%" />
