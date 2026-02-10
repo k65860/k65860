@@ -29,11 +29,7 @@
 
 ## 💻 Commit...
 <div align="center">
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k65860&exclude_repo=k65860.github.io&layout=compact&theme=tokyonight" width="35%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=k65860&theme=tokyonight&show_icons=true" width="48%" />
-</a>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jy_0327)](https://solved.ac/jy_0327)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k65860)](https://solved.ac/k65860)
+![Programmers Badge](https://raw.githubusercontent.com/k65860/jy_0327@likelion.org/master/static/result.svg)-->
+
 </div>
