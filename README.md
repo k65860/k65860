@@ -34,5 +34,8 @@
 <div align="center">
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k65860)](https://solved.ac/k65860)
 ![Programmers Badge](https://raw.githubusercontent.com/k65860/jy_0327@likelion.org/master/static/result.svg)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=k65860&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=k65860&show_icons=true&theme=radical&hide=issues&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k65860&theme=radical&utcOffset=9)
 
 </div>
