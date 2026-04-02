@@ -1,6 +1,8 @@
 ## ✨ Introduce
 <div align="center">
   안녕하세요. 프론트엔드 개발자를 희망하는 김지연입니다.<br>
+  개발할 때 혼자 집중해서 코드를 짜고 결과물을 화면에 그대로 표현하는 것에 흥미를 느끼는 개발자입니다.<br>
+  단 한 줄의 코드라도 그 코드가 서비스에 기여하는 영향에 대해 고민을 많이하는 신중한 타입입니다.<br>
 </div>
 
 ## ⚒️ Skills
@@ -31,7 +33,7 @@
 </div>
 
 ## 💻 Commit...
-<div align="center">23234234
+<div align="center">
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k65860)](https://solved.ac/k65860)
 ![Programmers Badge](https://raw.githubusercontent.com/k65860/jy_0327@likelion.org/master/static/result.svg)-->
 
