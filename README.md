@@ -28,13 +28,13 @@
 
 ## ✉️ Contect Me
 <div align="center">
-<h3>Email : jiyeon020327@gmail.com</h3>
+<h3>Email : jy_0327@naver.com</h3>
 <h3><a href="https://velog.io/@k65860">Velog 구경가기</a></h3>
 </div>
 
-## 💻 Commit...
+<!--## 💻 Commit...
 <div align="center">
-<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k65860)](https://solved.ac/k65860)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k65860)](https://solved.ac/k65860)
 ![Programmers Badge](https://raw.githubusercontent.com/k65860/jy_0327@likelion.org/master/static/result.svg)-->
 
 </div>
