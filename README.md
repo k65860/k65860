@@ -35,6 +35,6 @@
 <!--## 💻 Commit...
 <div align="center">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k65860)](https://solved.ac/k65860)
-![Programmers Badge](https://raw.githubusercontent.com/k65860/jy_0327@likelion.org/master/static/result.svg)-->
+![Programmers Badge](https://raw.githubusercontent.com/k65860/jy_0327@likelion.org/master/static/result.svg)--!>
 
 </div>
